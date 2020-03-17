@@ -6,10 +6,6 @@
 Benvenuti alla Costituente 2020
 ================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 
 COVID-19 e la morte della Democrazia delle Vanità
 -------------------------------------------------
@@ -105,6 +101,10 @@ ispirate al bene comune e non dalle vanità e dagli interessi di pochi.
 
 .. _Github: https://github.com/fondazione-democrazia-scientifica/costituente-2020
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
 
 Indices and tables
